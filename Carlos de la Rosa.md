@@ -24,7 +24,7 @@ Flight: No explanation needed.
 Enhanced Regeneration: The regeneration will take more time when the wound is more lethal. Inmune to any Earth viruses/sickness.
   - If it takes lethal damage then it will go to sleep/into a coma (regeneration works faster if in his coffin).
   - Enhanced Regeneration does not work against attacks of a pure blood vampire.
-  - Can not die due to it's enhanced regeneration, can only die to a pure blood vampire.
+  - Can not die due to its enhanced regeneration, can only die to a pure blood vampire.
 
 **Powers**
 
