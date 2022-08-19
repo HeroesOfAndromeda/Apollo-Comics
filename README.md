@@ -7,6 +7,7 @@ Some important info:
 
 In this I'll be categorizing species by classes, there are 8 classes:
 
+\---
 
 **God** - Near all powerful celestial beings.
 
