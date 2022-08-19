@@ -26,7 +26,7 @@ In this I'll be categorizing species by classes, there are 8 classes:
 
 **Creature** - Creatures from Earth that are not humans. 
 
-**Supercreture** - Creatures with powers/ablities that are better than the normal powers/abilities of their creature race.
+**Supercreature** - Creatures with powers/ablities that are better than the normal powers/abilities of their creature race.
 
 -----
 
