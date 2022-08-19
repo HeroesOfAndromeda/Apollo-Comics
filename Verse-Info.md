@@ -7,9 +7,12 @@ Some important info:
 
 In this I'll be categorizing species by classes, there are 8 classes:
 
+
 **God** - Near all powerful celestial beings.
 
 **Subgod** - Protectors/Less powerful than Gods.
+
+\---
 
 **Alien** - Creatures from planets that are not Earth.
 
@@ -18,6 +21,8 @@ In this I'll be categorizing species by classes, there are 8 classes:
 **Human** - The people/dominating species of Earth.
 
 **Superhuman** - Humans with powers/ablities that are better than the normal powers/abilities of humans.
+
+\---
 
 **Creature** - Creatures from Earth that are not humans. 
 
