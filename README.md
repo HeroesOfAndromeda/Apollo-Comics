@@ -5,6 +5,8 @@ I have this super hero/villain/creature universe in my head. I think they're goo
 
 Some important info: 
 
+".md" files with "[C]" at the beginning are Character Cards, the contain info about a character.
+
 In this I'll be categorizing species by classes, there are 8 classes:
 
 \---
