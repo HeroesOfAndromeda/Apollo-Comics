@@ -34,3 +34,6 @@ Vampire's Crucifix: Creates a pointy dark red crucifix that flies to the opponen
   - Can be controlled with the hand.
   
 -----
+
+**Backstory:** 
+
