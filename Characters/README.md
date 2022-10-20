@@ -1,3 +1,4 @@
+#Character Cards Info
 In this I'll be categorizing species by classes, there are 8 classes:
 
 \---
