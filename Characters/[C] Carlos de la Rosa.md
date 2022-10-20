@@ -1,23 +1,22 @@
 
------
-**Class:** Superhuman (Vampire).
+**- Description -**
 
-**Super Type:** Hero.
+**Name:** Carlos de la Rosa/Sabba Sabbkaveli Kadabra (Superhuman, Vampire).
 
------
+**Age:** 25 years, 120 vampire years.
 
-**SuperName - Real Name/Nickname:** None - Carlos de la Rosa/Carlos/de la Rosa.
+**Gender** Male.
 
+**Country:** USA.
 
-**Age:** 25 years old.
+**Ethnicity:** Mexican-America.
 
-**Gender:** Male.
-
-**Appearance:** Light brown skin, rose iris. Has fangs and claws.
+**Bio:** A man born in a small vampire village, he learned the arts of hunting at a young age. After getting his first ritual kill at age 25 he decided to explore the world. Now he's known as the filthy rich CEO of Sabb-Co, one of the biggest companies the world has ever seen. After a fight between The Salvation Squad, he decides to join their team to aid with technology and fighting power. 
 
 -----
+**- Weapons and Powers (Passive/Normal) -**
 
-**Passive Powers**
+**(Passive):**
 
 Flight: No explanation needed.
 
@@ -26,14 +25,31 @@ Enhanced Regeneration: The regeneration will take more time when the wound is mo
   - Enhanced Regeneration does not work against attacks of a pure blood vampire.
   - Can not die due to its enhanced regeneration, can only die to a pure blood vampire.
 
-**Powers**
+
+**(Normal):**
 
 Regen Fangs: Bites the opponent and sucks blood to regenerate health.
 
 Vampire's Crucifix: Creates a pointy dark red crucifix that flies to the opponent to pierce them.
   - Can be controlled with the hand.
-  
+
+
 -----
+**- Physical Traits and Fighting Style -**
 
-**Backstory:** 
+**Physical Traits:** 5ft 10, A little lean. Has retractable fangs, claws, and red eyes. 
 
+**Fighting Style:** Uses martial arts and plans ahead of time what he'll do. 
+   - He uses his metal baton, knife, and martial arts for close combat. 
+   - He uses his taser and guns for mid and long-range combat. 
+
+-----
+**- Transformations/Forms -**
+
+**Base Form:** 5ft 10, Using his normal weapons. On occasion using magic spells but not so much. Can grow black bat wings.
+
+**Rage Form:** 5ft 10, Eyes turn black and their pupils turn red (and become a circle outline), nails turn black and fangs grow, and screams are more violent. Angry and aggressive like an animal. Can grow black bat wings. 
+
+**Controlled Rage** Same as rage form except not acting like an animal.
+
+-----
