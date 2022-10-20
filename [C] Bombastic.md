@@ -1,4 +1,4 @@
-** - Description -**
+**- Description -**
 
 **Name:**
 
@@ -13,21 +13,21 @@
 **Bio:**
 
 -----
-** - Weapons and Powers (Passive/Normal) - **
+**- Weapons and Powers (Passive/Normal) -**
 
 **(Passive):**
 
 **(Normal):**
 
 -----
-**- Physical Traits and Fighting Style - **
+**- Physical Traits and Fighting Style -**
 
 **Physical Traits:**
 
 **Fighting Style:**
 
 -----
-** - Transformations/Forms - **
+**- Transformations/Forms -**
 
 **Base Form:**
 
