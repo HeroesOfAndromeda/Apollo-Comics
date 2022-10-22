@@ -4,7 +4,7 @@
 
 - The info here is general, the more developed bio's will be in the story.
 
-- In this I'll be categorizing species by classes, there are 8 classes:
+In this I'll be categorizing species by classes, there are 8 classes:
 
 \---
 
