@@ -19,7 +19,7 @@
 
 **(Passive):**
 
-Flight: No explanation needed.
+Flight: N/A.
 
 Enhanced Regeneration: The regeneration will take more time when the wound is more lethal. Inmune to any Earth viruses/sickness.
   - If it takes lethal damage (decapitation, mutilation, .etc) then it will go to sleep/into a coma (regeneration works faster if in his coffin).
