@@ -9,9 +9,9 @@
 
 **Country:** USA.
 
-**Ethnicity:** Mexican-America.
+**Ethnicity:** Mexican-American.
 
-**Bio:** A man born in a small vampire village, he learned the arts of hunting at a young age. After getting his first ritual kill at age 25 he decided to explore the world. Now he's known as the filthy rich CEO of Sabb-Co, one of the biggest companies the world has ever seen. After a fight between The Salvation Squad, he decides to join their team to aid with technology and fighting power. 
+**Bio:** A man born in a small vampire village near the Mexican border, he learned the arts of hunting at a young age. After getting his first ritual kill at age 25 he decided to explore the world. Now he's known as the filthy rich CEO of Sabb-Co, one of the biggest companies the world has ever seen. Each year growing his empire and also his corruption but also his boredom. One day the Salvation Squad hunts him down and they end up defeating him. Seeing this as an opportunity to free himself from his misery he decides to ask if he can join them in exchange of giving up the corruption. The squad leader, Dulcis, 
 
 -----
 **- Weapons and Powers (Passive/Normal) -**
