@@ -2,7 +2,7 @@
 
 **- Description -**
 
-**Name:** Sophia \[last name here] (Human, Alchemist).
+**Name:** \[Name Here] (Human, Alchemist).
 
 **Age:** 18.
 
