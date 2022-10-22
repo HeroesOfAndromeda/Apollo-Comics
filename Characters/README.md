@@ -1,6 +1,10 @@
 # Character Cards Info
 
-In this I'll be categorizing species by classes, there are 8 classes:
+- When a description has "N/A" it's because there is no description needed.
+
+- The info here is general, the more developed bio's will be in the story.
+
+- In this I'll be categorizing species by classes, there are 8 classes:
 
 \---
 
