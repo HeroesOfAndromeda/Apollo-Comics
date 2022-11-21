@@ -1,4 +1,4 @@
-# (GOOD) The Peace Frogs.md
+# (GOOD) The Peace Frogs
 
 -----
 
