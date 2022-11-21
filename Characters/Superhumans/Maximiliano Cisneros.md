@@ -12,7 +12,7 @@
 
 **Country of Birth:** Mexico
 
-**Ethnicity:** Mexican.
+**Ethnicity:** Hispanic.
 
 **Bio:**
 
