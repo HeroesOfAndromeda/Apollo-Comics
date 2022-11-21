@@ -6,3 +6,5 @@ I have this super hero/villain/creature universe in my head. I think they're goo
 Folder Orginization: 
 - Characters: Character cards, these include the stats and their story.
 
+ Copyright ©2022 Sabbydabs
+
