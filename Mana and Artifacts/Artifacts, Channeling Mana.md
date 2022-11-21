@@ -1,6 +1,6 @@
 # Artifacts, Channeling Mana
 
-As stated in [Mana, The Measure of Magic](), artifacts help people to begin using magic. 
+As stated in [Mana, The Measure of Magic](https://github.com/Sabbydabs/Sabbaverse/blob/d988613e5cbf720499db93adffda542caefddfae/Mana%20and%20Artifacts/Mana,%20The%20Measure%20of%20Magic.md), artifacts help people to begin using magic. 
 
 # Types and Classes
 
