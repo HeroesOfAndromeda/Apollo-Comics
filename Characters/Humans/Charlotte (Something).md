@@ -2,7 +2,7 @@
 
 **- Description -**
 
-**Name:** \[Name Here] (Human, Alchemist).
+**Name:** Charlotte (Something) (Human, Alchemist).
 
 **Age:** 18.
 
