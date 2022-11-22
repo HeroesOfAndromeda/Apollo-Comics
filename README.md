@@ -1,5 +1,7 @@
 # Apollo Comics - Info
+
 In a distant galaxy, far far away there lies another Earth. Almost near identical as yours, but full of superbeings! This is the Official Wiki for The Salvation Squad.
+
 -----
 
 # Folder Orginization
