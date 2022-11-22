@@ -1,6 +1,8 @@
-# Apollo Comics - Info
+# Heroes of Andromeda 
 
-In a distant galaxy, far far away there lies another Earth. Almost near identical as yours, but full of superbeings! This is the Official Wiki for The Salvation Squad.
+Close to the Milky Way there is a galaxy, The Andromeda Galaxy. In it there lies a planet, one very similar to Earth but with a twist. In there and across the whole galaxy beings are able to use magic! 
+
+Welcome to the Official Wiki for _**The Heroes of Andromeda**!_
 
 -----
 
@@ -8,6 +10,17 @@ In a distant galaxy, far far away there lies another Earth. Almost near identica
 - Characters: Character cards, these include the stats and the mini biographies of characters.
 - Mana and Artifacts: Info on what magic, mana, and artifacts.
 - Teams and Organizations: Lists the organizations and superhero/supervillain teams.
+-----
+
+# About Apollo Comics
+
+Apollo Comics is the author of this story and possibly more! Right now my focus is on this story, if I ever complete it I hope to make more.
+
+I made this public but please do not take my work and publish it as your own, if you intend to share it then please give credit. If you want to make changes then state those you made when sharing with other people. 
+
+Thank you for checking my story out and I hope you enjoy!
+
+
 
 Copyright ©2022 HeroesOfAndromeda
 
