@@ -20,8 +20,6 @@ I made this public but please do not take my work and publish it as your own, if
 
 Thank you for checking my story out and I hope you enjoy!
 
-
-
-Copyright ©2022 HeroesOfAndromeda
-
 -----
+
+Copyright ©2022 Apollo Comics
