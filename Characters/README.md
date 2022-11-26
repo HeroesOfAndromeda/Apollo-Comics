@@ -1,5 +1,9 @@
 # Character Cards Info
 
+-----
+
+### Species Classes:
+
 In this I'll be categorizing species by classes, there are 8 classes:
 
 \---
@@ -25,6 +29,14 @@ In this I'll be categorizing species by classes, there are 8 classes:
 **Supercreature** - Creatures with powers/ablities that are better than the normal powers/abilities of their creature race.
 
 -----
+### Passive and Normal Powers:
+
+- Passive: Powers that **do not** depend on mana to work, an example would be the vampire powers of Carlos (his fangs, regeneration, etc.)
+
+- Normal: Powers that **do** depend on mana to work, an example would be Maxwell's superspeed.
+
+-----
+### Miscellaneous Info:
 
 - When a description has "N/A" it's because there is no description needed.
 
