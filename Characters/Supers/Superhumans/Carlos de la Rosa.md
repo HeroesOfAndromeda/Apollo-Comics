@@ -26,13 +26,11 @@ Enhanced Regeneration: The regeneration will take more time when the wound is mo
   - Enhanced Regeneration does not work against attacks of a pure blood vampire.
   - Can not die due to its enhanced regeneration (cut/burnt/etc limbs will grow back), can only die to a pure blood vampire.
 
+Regen Fangs: Bites the opponent and sucks blood to regenerate health.
 
 **(Normal):**
 
-Regen Fangs: Bites the opponent and sucks blood to regenerate health.
-
-Vampire's Crucifix: Creates a pointy dark red crucifix that flies to the opponent to pierce them.
-  - Can be controlled with the hand.
+Magic Spells: The types of spells casted will be shown through out the story and it's impossible to list them all (this applies to anyone).
 
 -----
 **- Physical Traits and Fighting Style -**
