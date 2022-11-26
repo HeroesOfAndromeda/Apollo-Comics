@@ -34,7 +34,7 @@ N/A.
 
 **Physical Traits:** 7 ft tall, extremely muscular.
 
-**Fighting Style:** Often tranforms into their enemies' worst fears so that he can weaken them mentally. If fighting against a group, he'll kill in brutal ways to scare the others.
+**Fighting Style:** Often shapeshifts into their enemies' worst fears so that he can weaken them mentally. If fighting against a group, he'll kill in brutal ways to scare the others.
 
 -----
 **- Transformations/Forms -**
