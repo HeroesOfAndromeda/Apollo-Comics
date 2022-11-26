@@ -23,11 +23,11 @@ N/A.
 
 **(Passive):**
 
-He has a lot of powers, but the most notable ones are super speed, strength, 
+He has a lot of powers, but the most notable ones are super speed, super strength, shapeshifting, knowing your fears. 
 
 **(Normal):**
 
-None, infinite stamina.
+N/A.
 
 -----
 **- Physical Traits and Fighting Style -**
