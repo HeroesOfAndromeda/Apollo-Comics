@@ -12,6 +12,8 @@
 
 **Ethnicity:** German.
 
+**Personality:** Shy, really reserved. She is extroverted only to her friends.
+
 **Bio:** \[Bio Pending]
 
 -----
