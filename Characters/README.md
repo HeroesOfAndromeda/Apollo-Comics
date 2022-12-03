@@ -42,5 +42,5 @@ In this I'll be categorizing species by classes, there are 8 classes:
 
 - The info here is general, the more developed bio's will be in the story.
 
-- **Why put what perfume they smell like?** Well, why not? I like perfumes and these characters do to!
+- **Why put what perfume they smell like?** Well, why not? I like perfumes and these characters do too!
 -----
