@@ -14,6 +14,8 @@
 
 **Ethnicity:** Hispanic.
 
+**Personality:** 
+
 **Bio:**
 
 -----
