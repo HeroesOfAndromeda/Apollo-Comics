@@ -14,7 +14,7 @@
 
 **Ethnicity:** Hispanic.
 
-**Personality:** 
+**Personality:** He 
 
 **Bio:**
 
@@ -33,17 +33,28 @@ Time Slowdown: The ability to move so fast that time slows down for him.
 - The more Maxwell charges up the mana inside him the more time will be slowed down.
 - For example: If Maxwell charges up his mana for 15 seconds, time will be slow for 15 seconds, then it'll take 15 seconds for it to resume it's pace.
 
+The Judge: A hammer spawned when a Maxwell enters a combo lock.
+- It can fly, create thunder, shoot lighting, break and reconstruct but The Judge is only temporal before disappearing.
+- The Judge returns to Maxwell's hand when thrown or when Maxwell wants it to.
+- At one point, Maxwell will be able to summon The Judge at will.
+
 -----
 **- Physical Traits and Fighting Style -**
 
-**Physical Traits:** 
+**Physical Traits:** 5ft 10, strong legs, hair that reaches their shoulders, yellow eyes and light skin. They have a big lightning butterly on their back where the lightning strike hit them.          
 
-**Fighting Style:** 
+**Fighting Style:** Using mostly lightning speed kicks (sometimes fists), targetting the opponents legs and arms to make them unable to fight. They use blasts of electricity to knock back opponents or to paralyze them temporarily. His lightnining butterfly lights up when he charges up a lot of mana.
 
 -----
 **- Transformations/Forms -**
 
-**Base Form:**
+**Base Form:** 5ft 10, can run at lightning speed but usually holds back his punches since the force dramatically increases with speed. 
+- Very stategic with his movements.
+- Tries to be as unpredictable as possible, usually speeding up with the attacks or attacking spontaneously, generally avoiding attack patterns. 
+
+**Breakneck:** 5ft 10, and his suit colors are inverted. He gains a significant speed boost. A small lightning bolt appears on his cheeks, biceps, back of the hands, and the sides of the calves, and the lightning butterly is permananetly charged until he's out of his Breakneck form. 
+
+He also summons "The Judge" permanently until he is out of Breakneck form.
 
 -----
 
