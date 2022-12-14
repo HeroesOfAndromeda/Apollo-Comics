@@ -1,6 +1,6 @@
 -----
 
-**- Description -**
+### - Description -
 
 **Name:** Benjamin Lamb a.k.a Mr.Bombastic (Superhuman, SuperStrength). 
 
@@ -15,7 +15,7 @@
 **Bio:** A violent street fighter who grew up in the hood of New York City. Started street fighting at 15 and rose up the ranks to become an underground legend. He used the money he earns for his family, providing for his little sister and sick dad. Found out by Dulcis in an underground match, she saw that he had good intentions and invited him to the team. Benjamin first refused the offer. After Dulcis recruited Carlos, she was able to offer a pay to the squad members. She went and offered the position to Benjamin again, this time with a pay and security/health coverage to his family. Benjamin accepts the offer and joins the team. 
 
 -----
-**- Weapons and Powers (Passive/Normal) -**
+### - Weapons and Powers (Passive/Normal) -
 
 **(Passive):**
 
@@ -28,14 +28,17 @@ Olympium Fist: His fists get covered in Olympium, a superhard metal that can onl
 Bombtrack: Each punch creates a mini-explosion doing knockback (can only be done with Olympium Fists).
 
 -----
-**- Physical Traits and Fighting Style -**
+### - Physical Traits, Personality, and Fighting Style -
 
 **Physical Traits:** A tall, rough, lean, and dark skinned man with big hands. Has a serious and low voice along with a serious look. 
+- **Perfume:** 
+
+**Personality:**
 
 **Fighting Style:** Uses boxing techniques, when extremely mad he uses brute force.
 
 -----
-**- Transformations/Forms -**
+### - Transformations/Forms -
 
 **Base Form:** 6ft 4, Mostly calm but can get angry quick. Wears boxing gloves during fights.
 
