@@ -14,8 +14,6 @@
 
 **Ethnicity:** Hispanic.
 
-**Personality:** 
-
 **Bio:**
 
 -----
@@ -41,9 +39,12 @@ The Judge: A hammer spawned when a Maxwell enters a combo lock or when he enters
 - At one point, Maxwell will be able to summon The Judge at will.
 
 -----
-### - Physical Traits and Fighting Style -
+### - Physical Traits, Personality, and Fighting Style -
 
-**Physical Traits:** 5ft 10, strong legs, hair that reaches his shoulders, yellow eyes and light skin. He has a big lightning butterly on their back where the lightning strike hit them, it usually lights up when he charges up mana or when doing powerful attacks.          
+**Physical Traits:** 5ft 10, strong legs, hair that reaches his shoulders, yellow eyes and light skin. He has a big lightning butterly on their back where the lightning strike hit them, it usually lights up when he charges up mana or when doing powerful attacks.    
+- **Perfume:** 
+
+**Personality:** 
 
 **Fighting Style:** Using mostly lightning speed kicks (sometimes fists), targetting the opponents legs and arms to make them unable to fight. He uses blasts of electricity to knock back opponents or to paralyze them temporarily. 
 
