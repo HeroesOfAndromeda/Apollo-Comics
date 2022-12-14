@@ -21,7 +21,7 @@
 
 **(Passive):**
 
-Flight: N/A.
+Flight: He has big bat wings that come from his back.
 
 Enhanced Regeneration: The regeneration will take more time when the wound is more lethal. Inmune to any Earth viruses/sickness.
   - If it takes lethal damage (decapitation, mutilation, .etc) then it will go to sleep/into a coma (regeneration works faster if in his coffin).
@@ -38,8 +38,7 @@ Magic Spells: The types of spells casted will be shown through out the story and
 **- Physical Traits and Fighting Style -**
 
 **Physical Traits:** 5ft 10, A little lean. Has retractable fangs, claws, and red eyes. 
-
-**What perfume they smell like:** Spicebomb Extreme by Viktor&Rolf during the winter.
+- **Perfume:** Spicebomb Extreme by Viktor&Rolf during the winter.
 
 **Fighting Style:** Uses martial arts and plans ahead of time what he'll do. 
    - He uses his metal baton, knives, and martial arts for close combat. 
