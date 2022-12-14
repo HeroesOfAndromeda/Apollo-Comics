@@ -1,6 +1,8 @@
+# Name
+
 -----
 
-**- Description -**
+### - Description -
 
 **Name:**
 
@@ -15,14 +17,14 @@
 **Bio:**
 
 -----
-**- Weapons and Powers (Passive/Normal) -**
+### - Weapons and Powers (Passive/Normal) -
 
 **(Passive):**
 
 **(Normal):**
 
 -----
-**- Physical Traits, Personality, and Fighting Style -**
+### - Physical Traits, Personality, and Fighting Style -
 
 **Physical Traits:**
 - **Perfume:** 
@@ -32,7 +34,7 @@
 **Fighting Style:**
 
 -----
-**- Transformations/Forms -**
+### - Transformations/Forms -
 
 **Base Form:**
 
