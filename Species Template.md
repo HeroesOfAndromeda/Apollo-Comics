@@ -20,6 +20,7 @@ Any special food they eat?
 ### - Anatomy -
 - Trait 1: Description
 
+---
 ### - Miscellaneous - 
 Hybridization Possible?: NO, except with normal humans.
 
