@@ -22,7 +22,7 @@ Any special food they eat?
 
 ---
 ### - Miscellaneous - 
-Hybridization Possible?: NO, except with normal humans.
+Hybridization Possible?:
 
 
 ---
