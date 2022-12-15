@@ -8,8 +8,9 @@ Welcome to the Official Wiki for _**The Heroes of Andromeda**!_
 
 # Folder Orginization
 - Characters: Character cards, these include the stats and the mini biographies of characters.
-- Mana and Artifacts: Info on what magic, mana, and artifacts.
+- Mana and Artifacts: Info on magic, mana, and artifacts.
 - Teams and Organizations: Lists the organizations and superhero/supervillain teams.
+- Species: Provides information on species that appear in the story.
 -----
 
 # About Apollo Comics
