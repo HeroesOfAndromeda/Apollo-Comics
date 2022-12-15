@@ -15,6 +15,13 @@ These are passive abilities, they do not require mana to function.
 ### - Physical Traits -
 - Trait 1: Description
 
+### - Miscellaneous - 
+Hybridization Possible?: NO, except with normal humans.
+
+
+
+
+
 ---
 
 
