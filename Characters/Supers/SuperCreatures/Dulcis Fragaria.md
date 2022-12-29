@@ -4,15 +4,15 @@
 
 ### - Description -
 
-**Name:**
+**Name:** Dulcibella Blossom
 
-**Age:**
+**Age:** As old as the Garden of Earth.
 
-**Gender:**
+**Gender:** Female.
 
-**Country of Birth:**
+**Country of Birth:** The Garden of Eden, it doesn't have a place on Earth.
 
-**Ethnicity:**
+**Nationality:** Japanese.
 
 **Bio:**
 
