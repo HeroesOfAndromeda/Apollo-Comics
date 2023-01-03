@@ -25,7 +25,7 @@ Rain Flight: The ability to fly when there is rain. Once the rain ends he will f
           
 Thundercrafting: The ability to create anything imaginable with lightning. 
 
-Cumulus-CLoud: A small cloud forms to be used as a flying-nimbus type ride.
+Nimbus-Cloud: A small cloud forms to be used as a flying-nimbus type ride.
 
 Waterbending: The ability to control water.
 
