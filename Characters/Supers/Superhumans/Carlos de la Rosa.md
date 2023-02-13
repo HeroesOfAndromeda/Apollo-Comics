@@ -14,7 +14,7 @@
 
 **Personality:** A mild loose cannon. He has a lot of self confidence, believes that criminals shouldn't be killed (unless they're uncontrollable monsters). Loves to smell good.
 
-**Bio:** The filthy rich CEO of Sabb-Co, one of the biggest companies the world has ever seen. Each year growing his empire and also his corruption but also his boredom. One day the Salvation Squad hunts him down and they end up defeating him. Seeing this as an opportunity to free himself from his misery of boredom he decides to ask if he can join them in exchange of giving up the corruption. The squad leader, Dulcis, says yes since she is in dire need of more members.
+**Bio:** The filthy rich CEO of Sabb-Co, one of the biggest companies the world has ever seen. Each year growing his empire and also his corruption but also his boredom. One day the Salvation Squad hunts him down and they end up defeating him. Seeing this as an opportunity to free himself from his misery of boredom he decides to ask if he can join them in exchange of giving up the corruption. The squad leader, Dulcibella, says yes since she is in dire need of more members.
 
 -----
 **- Weapons and Powers (Passive/Normal) -**
