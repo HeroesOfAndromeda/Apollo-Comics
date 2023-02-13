@@ -12,7 +12,7 @@
 
 **Ethnicity:** African-American
 
-**Bio:** A violent street fighter who grew up in the hood of New York City. Started street fighting at 15 and rose up the ranks to become an underground legend. He used the money he earns for his family, providing for his little sister and sick dad. Found out by Dulcis in an underground match, she saw that he had good intentions and invited him to the team. Benjamin first refused the offer. After Dulcis recruited Carlos, she was able to offer a pay to the squad members. She went and offered the position to Benjamin again, this time with a pay and security/health coverage to his family. Benjamin accepts the offer and joins the team. 
+**Bio:** A violent street fighter who grew up in the hood of New York City. Started street fighting at 15 and rose up the ranks to become an underground legend. He used the money he earns for his family, providing for his little sister and sick dad. Found out by Dulcibella in an underground match, she saw that he had good intentions and invited him to the team. Benjamin first refused the offer. After Dulcibella recruited Carlos, she was able to offer a pay to the squad members. She went and offered the position to Benjamin again, this time with a pay and security/health coverage to his family. Benjamin accepts the offer and joins the team. 
 
 -----
 ### - Weapons and Powers (Passive/Normal) -
