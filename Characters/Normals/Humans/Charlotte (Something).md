@@ -2,7 +2,7 @@
 
 **- Description -**
 
-**Name:** Charlotte (Something) (Human, Alchemist).
+**Name:** Charlotte Morgenstern (Human, Alchemist).
 
 **Age:** 18.
 
