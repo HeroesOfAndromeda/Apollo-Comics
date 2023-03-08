@@ -18,7 +18,7 @@
 
 **Maximiliano Cisneros "Streak" (The Smart Guy):** A university student who got strucken by lightning. The strike giving him superspeed. As time progresses he discovers more about his powers. Maxwell is very smart and is good at making plans. 
 
-**[Benjamin Lamb "Mr.Bombastic" (The Tank)](obsidian://open?vault=The%20Superverse&file=Characters%2FSuperhumans%2FMr.Bombastic):** A violent street boxer who grew up in the poor parts of NY. Greatly skilled but with anger issues. As the story progressed he discovers he's the son of a titan.
+**[Benjamin Braveheart "Mr.Bombastic" (The Tank)](obsidian://open?vault=The%20Superverse&file=Characters%2FSuperhumans%2FMr.Bombastic):** A violent street boxer who grew up in the poor parts of NY. Greatly skilled but with anger issues. As the story progressed he discovers he's the son of a titan.
 
 **Louise Loveheart "The Cartoon Heart" (The Comedic Relief):** A silent mime, able to control cartoon physics as well as break the 4th wall. They are also used for comedic relief.
 
