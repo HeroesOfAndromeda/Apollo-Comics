@@ -4,7 +4,7 @@
 
 ### - Description -
 
-**Name:** Louise Loveheart 
+**Name:** Louise Loveheart/Slapstick
 
 **Age:** 22
 
