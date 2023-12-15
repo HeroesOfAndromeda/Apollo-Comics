@@ -23,4 +23,4 @@ Thank you for checking my story out and I hope you enjoy!
 
 -----
 
-Copyright ©2022 Apollo Comics
+Heroes of Andromeda © 2020 by @skadabra_ on discord. is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
